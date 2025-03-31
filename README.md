@@ -3,7 +3,7 @@
 ## Disclaimer
 This project is intended for educational and ethical security improvement purposes only. Unauthorized use of vulnerability scanning tools for malicious activities is illegal and punishable by law. Always ensure ethical and legal compliance when using this tool.
 
-## 📸 Project Screenshots
+## 📸 Brief Screenshots
 Click [here](https://github.com/Travis-N-W/Active-Directory/tree/main/screenshots) to view all screenshots.
 
 ## Project Objective
