@@ -3,10 +3,10 @@
 ## Disclaimer
 This project is intended for educational and ethical security improvement purposes only. Unauthorized use of vulnerability scanning tools for malicious activities is illegal and punishable by law. Always ensure ethical and legal compliance when using this tool.
 
-## 📸 Brief Screenshots
+## 📸 Project Screenshots
 Click [here](https://github.com/Travis-N-W/Nessus/tree/main/screenshots) to view all screenshots.
 
-## Project Objective
+## Brief Objective
 The objective of this project was to demonstrate the process of using Tenable Nessus Essentials to perform vulnerability scanning on a virtualized Windows 10 Pro machine. This included conducting both basic and credentialed scans to identify security vulnerabilities, followed by installing an outdated Firefox version to observe how the scanner detects vulnerabilities in legacy software. The project also involved applying remediations, such as uninstalling outdated software and updating the operating system to the latest patches, to assess the effectiveness of these actions in reducing vulnerabilities. The results showcased the importance of regular updates and the automation of simple remediation tasks to improve overall system security.
 
 ## Skills Learned
